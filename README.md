@@ -2,7 +2,7 @@ Business Card List App build on Flutter
 
 Note: It is still work on progress.
 
-Done: Added camera to make pic of business card.
+DONE: Added camera to take pic of business card.
 
 TODO: 
 - Persist data in SQlite
