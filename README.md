@@ -1,16 +1,12 @@
-# first_app
+Business Card List App build on Flutter
 
-A new Flutter project.
+Note: It is still work on progress.
 
-## Getting Started
+Done: Added camera to make pic of business card.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+TODO: 
+- Persist data in SQlite
+- 
+![Screen Shot 2021-12-06 at 8 47 57 AM](https://user-images.githubusercontent.com/4318860/144868327-4f1b8748-2dad-4391-a1aa-d01a0a08f51b.png)
+![Screen Shot 2021-12-06 at 8 48 05 AM](https://user-images.githubusercontent.com/4318860/144868341-2fef8f7f-7fa4-441f-b34c-4f263f891c4f.png)
+![Screen Shot 2021-12-06 at 8 48 13 AM](https://user-images.githubusercontent.com/4318860/144868358-1e48cd06-d080-4c36-b817-e7609502622a.png)
